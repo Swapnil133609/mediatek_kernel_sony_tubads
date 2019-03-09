@@ -1,0 +1,13 @@
+pn547.c:967:19:pn547_dev_init	32	static
+pn547.c:923:12:pn547_remove	64	static
+pn547.c:641:12:pn547_dev_open	16	static
+pn547.c:357:20:pn547_dev_irq_handler	32	static
+pn547.c:403:16:pn547_dev_read	128	static
+pn547.c:978:20:pn547_dev_exit	16	static
+pn547.c:347:12:mt_nfc_remove	16	static
+pn547.c:235:12:mt_nfc_pinctrl_select	32	static
+pn547.c:222:13:pn547_disable_irq	32	static
+pn547.c:760:12:pn547_probe	128	static
+pn547.c:653:13:pn547_dev_ioctl	64	static
+pn547.c:539:16:pn547_dev_write	48	static
+pn547.c:329:12:mt_nfc_probe	48	static

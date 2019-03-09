@@ -1,0 +1,13 @@
+leds_strobe.c:622:9:strobe_VDIrq	0	static
+leds_strobe.c:338:5:flashlight_kthread	112	static
+leds_strobe.c:140:5:FL_preOn	16	static
+leds_strobe.c:155:5:FL_Enable	48	static
+leds_strobe.c:223:5:FL_Disable	32	static
+leds_strobe.c:250:5:FL_dim_duty	32	static
+leds_strobe.c:457:12:constant_flashlight_ioctl	48	static
+leds_strobe.c:270:5:FL_Init	32	static
+leds_strobe.c:541:12:constant_flashlight_open	48	static
+leds_strobe.c:307:5:FL_Uninit	32	static
+leds_strobe.c:577:12:constant_flashlight_release	32	static
+leds_strobe.c:327:5:FL_hasLowPowerDetect	0	static
+leds_strobe.c:612:9:constantFlashlightInit	0	static

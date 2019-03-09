@@ -1,0 +1,14 @@
+imx219trulymipiraw_Sensor.c:1427:19:get_resolution	32	static
+imx219trulymipiraw_Sensor.c:1448:19:get_info	32	static
+imx219trulymipiraw_Sensor.c:291:13:write_cmos_sensor	32	static
+imx219trulymipiraw_Sensor.c:1022:19:set_test_pattern_mode	32	static
+imx219trulymipiraw_Sensor.c:1271:19:close	16	static
+imx219trulymipiraw_Sensor.c:1298:19:preview.isra.6	32	static
+imx219trulymipiraw_Sensor.c:1551:19:control	64	static
+imx219trulymipiraw_Sensor.c:514:19:set_gain.part.8	64	static
+imx219trulymipiraw_Sensor.c:1138:19:get_imgsensor_id	96	static
+imx219trulymipiraw_Sensor.c:1198:19:open	48	static
+imx219trulymipiraw_Sensor.c:297:13:set_dummy	48	static
+imx219trulymipiraw_Sensor.c:317:13:set_max_framerate	64	static
+imx219trulymipiraw_Sensor.c:1715:19:feature_control	112	static
+imx219trulymipiraw_Sensor.c:1841:8:IMX219_TRULY_MIPI_RAW_SensorInit	0	static

@@ -1,0 +1,17 @@
+rlm_domain.c:698:21:rlmDomainGetDomainInfo	64	static
+rlm_domain.c:775:6:rlmDomainGetChnlList	80	static
+rlm_domain.c:827:6:rlmDomainGetDfsChnls	64	static
+rlm_domain.c:892:6:rlmDomainSendDomainInfoCmd	80	static
+rlm_domain.c:955:6:rlmDomainSendPassiveScanInfoCmd	80	static
+rlm_domain.c:1039:9:rlmDomainIsLegalChannel	48	static
+rlm_domain.c:1077:9:rlmDomainSupOperatingClassIeFill	0	static
+rlm_domain.c:1124:9:rlmDomainCheckChannelEntryValid	0	static
+rlm_domain.c:1168:8:rlmDomainGetCenterChannel	0	static
+rlm_domain.c:1192:1:rlmDomainIsValidRfSetting	64	static
+rlm_domain.c:1267:1:rlmDomainCheckPowerLimitValid	16	static
+rlm_domain.c:1296:6:rlmDomainCheckCountryPowerLimitTable	160	static
+rlm_domain.c:1394:9:rlmDomainPwrLimitDefaultTableDecision	32	static
+rlm_domain.c:1429:6:rlmDomainBuildCmdByDefaultTable	0	static
+rlm_domain.c:1562:6:rlmDomainBuildCmdByConfigTable	128	static
+rlm_domain.c:1689:6:rlmDomainSendPwrLimitCmd	112	static
+rlm_domain.c:874:6:rlmDomainSendCmd	32	static

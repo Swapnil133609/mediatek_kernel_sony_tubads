@@ -1,0 +1,16 @@
+yas_mag_drv-yas537.c:235:12:read_yas537	112	static
+yas_mag_drv-yas537.c:296:12:reset_yas537	144	static
+yas_mag_drv-yas537.c:456:12:yas_get_position	0	static
+yas_mag_drv-yas537.c:559:12:yas_get_delay	0	static
+yas_mag_drv-yas537.c:581:12:yas_get_enable	0	static
+yas_mag_drv-yas537.c:463:12:yas_set_position	32	static
+yas_mag_drv-yas537.c:761:12:yas_init	64	static
+yas_mag_drv-yas537.c:226:12:cont_start_yas537	48	static
+yas_mag_drv-yas537.c:480:12:yas_measure	112	static
+yas_mag_drv-yas537.c:553:12:yas_measure_wrap	32	static
+yas_mag_drv-yas537.c:588:12:yas_set_enable_wrap	80	static
+yas_mag_drv-yas537.c:618:12:yas_set_enable	16	static
+yas_mag_drv-yas537.c:566:12:yas_set_delay	16	static
+yas_mag_drv-yas537.c:809:12:yas_term	32	static
+yas_mag_drv-yas537.c:623:12:yas_ext	144	static
+yas_mag_drv-yas537.c:819:5:yas_mag_driver_init	16	static

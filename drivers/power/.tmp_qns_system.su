@@ -1,0 +1,6 @@
+qns_system.c:508:12:qnovo_qns_init	16	static
+qns_system.c:101:12:qns_get_scvt	80	static
+qns_system.c:306:32:qns_alarm_handler	32	static
+qns_system.c:378:16:qns_param_store	80	static
+qns_system.c:513:13:qnovo_qns_exit	16	static
+qns_system.c:316:16:qns_param_show	64	static

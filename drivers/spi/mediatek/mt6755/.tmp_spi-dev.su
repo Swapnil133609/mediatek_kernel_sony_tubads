@@ -1,0 +1,13 @@
+spi-dev.c:815:12:spi_test_remove	32	static
+spi-dev.c:123:12:spi_recv_check	112	static
+spi-dev.c:40:12:spi_setup_xfer	80	static
+spi-dev.c:286:12:threadfunc3	160	static
+spi-dev.c:325:12:threadfunc4	176	static
+spi-dev.c:253:12:threadfunc2	256	static
+spi-dev.c:221:12:threadfunc1	256	static
+spi-dev.c:368:16:spi_store	144	static
+spi-dev.c:823:19:spi_test_probe	32	static
+spi-dev.c:868:20:spi_test_exit	16	static
+spi-dev.c:861:19:spi_dev_init	16	static
+spi-dev.c:511:1:spi_msg_store	528	static
+spi-dev.c:202:13:spi_complete	32	static

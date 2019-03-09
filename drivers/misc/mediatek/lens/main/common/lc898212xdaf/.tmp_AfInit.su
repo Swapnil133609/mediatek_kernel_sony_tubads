@@ -1,0 +1,4 @@
+AfInit.c:109:6:IniFil	96	static
+AfInit.c:147:6:IniSvo	32	static
+AfInit.c:161:6:IniDrv	64	static
+AfInit.c:223:6:ServoOn	16	static

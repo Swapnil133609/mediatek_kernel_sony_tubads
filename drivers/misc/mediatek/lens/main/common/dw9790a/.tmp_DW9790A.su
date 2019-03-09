@@ -1,0 +1,5 @@
+DW9790A.c:59:12:s4AF_WriteReg	48	static
+DW9790A.c:39:12:s4AF_ReadReg	48	static
+DW9790A.c:206:6:DW9790A_Ioctl	128	static
+DW9790A.c:240:5:DW9790A_Release	112	static
+DW9790A.c:267:6:DW9790A_SetI2Cclient	0	static

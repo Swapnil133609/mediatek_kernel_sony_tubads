@@ -1,0 +1,14 @@
+imx219mipiraw_Sensor.c:1426:19:get_resolution	32	static
+imx219mipiraw_Sensor.c:1447:19:get_info	32	static
+imx219mipiraw_Sensor.c:291:13:write_cmos_sensor	32	static
+imx219mipiraw_Sensor.c:1021:19:set_test_pattern_mode	32	static
+imx219mipiraw_Sensor.c:1270:19:close	16	static
+imx219mipiraw_Sensor.c:1297:19:preview.isra.6	32	static
+imx219mipiraw_Sensor.c:1550:19:control	64	static
+imx219mipiraw_Sensor.c:513:19:set_gain.part.8	64	static
+imx219mipiraw_Sensor.c:1137:19:get_imgsensor_id	96	static
+imx219mipiraw_Sensor.c:1197:19:open	48	static
+imx219mipiraw_Sensor.c:297:13:set_dummy	48	static
+imx219mipiraw_Sensor.c:316:13:set_max_framerate	64	static
+imx219mipiraw_Sensor.c:1714:19:feature_control	112	static
+imx219mipiraw_Sensor.c:1840:8:IMX219_MIPI_RAW_SensorInit	0	static

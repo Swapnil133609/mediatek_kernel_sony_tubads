@@ -1,0 +1,11 @@
+imx258lgitmipiraw_Sensor.c:703:19:gain2reg	32	static
+imx258lgitmipiraw_Sensor.c:2670:19:get_resolution	32	static
+imx258lgitmipiraw_Sensor.c:2691:19:get_info	32	static
+imx258lgitmipiraw_Sensor.c:582:13:set_max_framerate	80	static
+imx258lgitmipiraw_Sensor.c:2509:19:close	16	static
+imx258lgitmipiraw_Sensor.c:2536:19:preview.isra.7	64	static
+imx258lgitmipiraw_Sensor.c:2800:19:control	96	static
+imx258lgitmipiraw_Sensor.c:561:19:return_sensor_id	64	static
+imx258lgitmipiraw_Sensor.c:2988:19:feature_control	96	static
+imx258lgitmipiraw_Sensor.c:2438:19:open	80	static
+imx258lgitmipiraw_Sensor.c:3197:8:IMX258_LGIT_MIPI_RAW_SensorInit	0	static

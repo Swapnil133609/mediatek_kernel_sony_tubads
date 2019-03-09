@@ -1,0 +1,5 @@
+kd_camera_hw.c:233:5:mtkcam_gpio_init	48	static
+kd_camera_hw.c:436:5:mtkcam_gpio_set	32	static
+kd_camera_hw.c:561:6:hwpoweron	80	static
+kd_camera_hw.c:703:6:hwpowerdown	48	static
+kd_camera_hw.c:830:5:kdCISModulePowerOn	112	static

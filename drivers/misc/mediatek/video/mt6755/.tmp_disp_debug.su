@@ -1,0 +1,13 @@
+disp_debug.c:942:12:lp_cust_open	16	static
+disp_debug.c:922:16:lp_cust_read	80	static
+disp_debug.c:954:16:kick_read	48	static
+disp_debug.c:187:6:ddp_process_dbg_opt	848	static
+disp_debug.c:463:6:mtkfb_process_dbg_opt	464	static
+disp_debug.c:848:5:get_lp_cust_mode	0	static
+disp_debug.c:852:6:backup_vfp_for_lp_cust	16	static
+disp_debug.c:856:14:get_backup_vfp	0	static
+disp_debug.c:863:13:lp_cust_process_dbg_opt	64	static
+disp_debug.c:892:13:lp_cust_process_dbg_cmd	48	static
+disp_debug.c:902:16:lp_cust_write	112	static
+disp_debug.c:963:6:sub_debug_init	16	static
+disp_debug.c:976:6:sub_debug_deinit	16	static

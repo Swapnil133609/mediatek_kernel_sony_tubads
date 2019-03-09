@@ -1,0 +1,11 @@
+port_rpc.c:1301:5:port_rpc_recv_match	32	static
+port_rpc.c:112:12:get_md_gpio_info	112	static
+port_rpc.c:99:12:get_md_adc_info	32	static
+port_rpc.c:69:12:get_md_adc_val	64	static
+port_rpc.c:205:19:get_project_id_from_cmdline	32	static
+port_rpc.c:285:6:get_dtsi_eint_node.part.3	160	static
+port_rpc.c:1290:12:port_rpc_init	32	static
+port_rpc.c:285:6:get_dtsi_eint_node	16	static
+port_rpc.c:310:5:get_eint_attr_DTSVal	128	static
+port_rpc.c:475:13:ccci_rpc_work_helper.isra.4	176	static
+port_rpc.c:1205:13:rpc_msg_handler	224	static

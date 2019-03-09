@@ -1,0 +1,2 @@
+imx258lgit_pdafotp.c:74:6:read_imx258lgit_eeprom	64	static
+imx258lgit_pdafotp.c:93:6:read_imx258lgit_eeprom_SPC	64	static

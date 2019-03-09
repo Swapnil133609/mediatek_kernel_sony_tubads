@@ -1,0 +1,7 @@
+autosleep.c:41:13:try_to_suspend	64	static
+autosleep.c:102:6:queue_up_suspend_work	16	static
+autosleep.c:108:17:pm_autosleep_state	0	static
+autosleep.c:113:5:pm_autosleep_lock	16	static
+autosleep.c:118:6:pm_autosleep_unlock	16	static
+autosleep.c:123:5:pm_autosleep_set_state	64	static
+autosleep.c:158:12:pm_autosleep_init	32	static

@@ -1,0 +1,17 @@
+traps.c:59:13:dump_mem	208	static
+traps.c:138:13:dump_backtrace	96	static
+traps.c:106:13:dump_instr.isra.2	160	static
+traps.c:176:6:show_stack	16	static
+traps.c:228:6:die	64	static
+traps.c:265:6:arm64_notify_die	16	static
+traps.c:280:6:register_undef_hook	32	static
+traps.c:289:6:unregister_undef_hook	32	static
+traps.c:342:29:do_undefinstr	192	static
+traps.c:371:17:do_ni_syscall	32	static
+traps.c:397:5:register_async_abort_handler	0	static
+traps.c:409:17:bad_mode	192	static
+traps.c:436:6:__pte_error	16	static
+traps.c:441:6:__pmd_error	16	static
+traps.c:446:6:__pud_error	16	static
+traps.c:451:6:__pgd_error	16	static
+traps.c:456:13:trap_init	0	static

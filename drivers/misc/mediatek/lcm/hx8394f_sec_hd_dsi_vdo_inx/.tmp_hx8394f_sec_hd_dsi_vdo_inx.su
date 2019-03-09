@@ -1,0 +1,9 @@
+hx8394f_sec_hd_dsi_vdo_inx.c:917:13:lcm_resume_power	16	static
+hx8394f_sec_hd_dsi_vdo_inx.c:902:13:lcm_suspend_power	16	static
+hx8394f_sec_hd_dsi_vdo_inx.c:887:13:lcm_init_power	16	static
+hx8394f_sec_hd_dsi_vdo_inx.c:1023:13:lcm_suspend	96	static
+hx8394f_sec_hd_dsi_vdo_inx.c:263:13:init_lcm_registers	128	static
+hx8394f_sec_hd_dsi_vdo_inx.c:933:13:lcm_init	128	static
+hx8394f_sec_hd_dsi_vdo_inx.c:1043:13:lcm_resume	32	static
+hx8394f_sec_hd_dsi_vdo_inx.c:773:13:lcm_get_params	32	static
+hx8394f_sec_hd_dsi_vdo_inx.c:767:13:lcm_set_util_funcs	16	static

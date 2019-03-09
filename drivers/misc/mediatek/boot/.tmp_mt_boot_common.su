@@ -1,0 +1,12 @@
+mt_boot_common.c:152:16:boot_store	0	static
+mt_boot_common.c:267:12:boot_mode_proc_open	16	static
+mt_boot_common.c:240:12:boot_mode_proc_show	32	static
+mt_boot_common.c:291:19:boot_common_init	16	static
+mt_boot_common.c:56:19:dt_get_boot_common	48	static
+mt_boot_common.c:83:6:init_boot_common	48	static
+mt_boot_common.c:117:14:get_boot_mode	16	static
+mt_boot_common.c:147:16:boot_show	32	static
+mt_boot_common.c:125:6:is_meta_mode	16	static
+mt_boot_common.c:136:6:is_advanced_meta_mode	16	static
+mt_boot_common.c:279:19:boot_common_core	48	static
+mt_boot_common.c:235:20:destroy_sysfs	16	static

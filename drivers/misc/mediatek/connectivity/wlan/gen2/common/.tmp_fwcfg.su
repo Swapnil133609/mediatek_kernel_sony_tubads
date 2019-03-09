@@ -1,0 +1,9 @@
+fwcfg.c:238:14:strtok_r	0	static
+fwcfg.c:32:15:getFwCfgItemNum	0	static
+fwcfg.c:37:16:getFwCfgItemKey	0	static
+fwcfg.c:45:16:getFwCfgItemValue	0	static
+fwcfg.c:53:6:wlanCfgFwSetParam	48	static
+fwcfg.c:75:13:wlanCfgSetGetFw	112	static
+fwcfg.c:101:13:wlanFwArrayCfg	80	static
+fwcfg.c:173:13:wlanFwCfgParse	96	static
+fwcfg.c:133:13:wlanFwFileCfg	64	static

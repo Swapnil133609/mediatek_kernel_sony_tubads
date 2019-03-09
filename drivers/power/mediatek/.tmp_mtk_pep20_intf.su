@@ -1,0 +1,16 @@
+mtk_pep20_intf.c:72:12:pep20_enable_vbus_ovp	64	static
+mtk_pep20_intf.c:92:12:pep20_set_mivr	48	static
+mtk_pep20_intf.c:190:12:pep20_set_ta_vchr	128	static
+mtk_pep20_intf.c:312:5:mtk_pep20_set_charging_current	48	static
+mtk_pep20_intf.c:358:5:mtk_pep20_init	48	static
+mtk_pep20_intf.c:368:5:mtk_pep20_reset_ta_vchr	64	static
+mtk_pep20_intf.c:103:12:pep20_leave	32	static
+mtk_pep20_intf.c:272:5:pep20_plugout_reset	48	static
+mtk_pep20_intf.c:417:5:mtk_pep20_check_charger	96	static
+mtk_pep20_intf.c:479:5:mtk_pep20_start_algorithm	128	static
+mtk_pep20_intf.c:574:6:mtk_pep20_set_to_check_chr_type	48	static
+mtk_pep20_intf.c:586:6:mtk_pep20_set_is_enable	48	static
+mtk_pep20_intf.c:598:6:mtk_pep20_set_is_cable_out_occur	48	static
+mtk_pep20_intf.c:606:6:mtk_pep20_get_to_check_chr_type	0	static
+mtk_pep20_intf.c:611:6:mtk_pep20_get_is_connect	0	static
+mtk_pep20_intf.c:623:6:mtk_pep20_get_is_enable	0	static

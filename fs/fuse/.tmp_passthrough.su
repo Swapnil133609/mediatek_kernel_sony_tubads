@@ -1,0 +1,4 @@
+passthrough.c:20:6:fuse_setup_passthrough	32	static
+passthrough.c:110:9:fuse_passthrough_read_iter	64	static
+passthrough.c:115:9:fuse_passthrough_write_iter	64	static
+passthrough.c:120:6:fuse_passthrough_release	32	static

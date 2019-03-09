@@ -1,0 +1,10 @@
+ahb_pdma.c:212:13:HifPdmaConfig	0	static
+ahb_pdma.c:256:13:HifPdmaStart	0	static
+ahb_pdma.c:292:13:HifPdmaStop	0	static
+ahb_pdma.c:327:21:HifPdmaPollStart	0	static
+ahb_pdma.c:346:21:HifPdmaPollIntr	0	static
+ahb_pdma.c:365:13:HifPdmaAckIntr	0	static
+ahb_pdma.c:415:13:HifPdmaRegDump	96	static
+ahb_pdma.c:385:13:HifPdmaClockCtrl	32	static
+ahb_pdma.c:499:13:HifPdmaReset	32	static
+ahb_pdma.c:170:6:HifPdmaInit	32	static

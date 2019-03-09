@@ -1,0 +1,14 @@
+secmem.c:336:12:secmem_session_open	64	static
+secmem.c:112:12:secmem_execute	64	static
+secmem.c:396:12:secmem_session_close	48	static
+secmem.c:764:12:secmem_api_alloc_internal	192	static
+secmem.c:821:5:secmem_api_alloc	16	static
+secmem.c:828:5:secmem_api_alloc_zero	16	static
+secmem.c:836:5:secmem_api_unref	112	static
+secmem.c:260:12:secmem_handle_unregister	48	static
+secmem.c:235:13:secmem_handle_unregister_check	48	static
+secmem.c:478:12:secmem_release	144	static
+secmem.c:448:12:secmem_open	48	static
+secmem.c:186:12:secmem_handle_register	80	static
+secmem.c:576:13:secmem_ioctl	112	static
+secmem.c:964:19:secmem_init	16	static

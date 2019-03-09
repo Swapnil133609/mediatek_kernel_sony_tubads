@@ -1,0 +1,15 @@
+ccci_core.c:119:16:ccci_md_attr_show	16	static
+ccci_core.c:130:16:ccci_md_attr_store	16	static
+ccci_core.c:90:5:boot_md_show	32	static
+ccci_core.c:101:5:boot_md_store	16	static
+ccci_core.c:341:19:ccci_init	48	static
+ccci_core.c:112:13:ccci_md_obj_release	16	static
+ccci_core.c:68:15:ccci_get_md_boot_count	0	static
+ccci_core.c:76:7:ccci_get_ap_platform	0	static
+ccci_core.c:155:6:ccci_sysfs_add_md	16	static
+ccci_core.c:364:5:exec_ccci_kern_func_by_md_id	80	static
+ccci_core.c:521:12:switch_Tx_Power	64	static
+ccci_core.c:535:5:switch_MD1_Tx_Power	16	static
+ccci_core.c:541:5:switch_MD2_Tx_Power	16	static
+ccci_core.c:485:5:aee_dump_ccci_debug_info	16	static
+ccci_core.c:505:5:ccci_register_dev_node	16	static

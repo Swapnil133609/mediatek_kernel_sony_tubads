@@ -1,0 +1,14 @@
+hx8394f_hd_dsi_vdo_truly.c:149:12:ktd2151_probe	32	static
+hx8394f_hd_dsi_vdo_truly.c:870:13:lcm_resume_power	16	static
+hx8394f_hd_dsi_vdo_truly.c:855:13:lcm_suspend_power	16	static
+hx8394f_hd_dsi_vdo_truly.c:840:13:lcm_init_power	16	static
+hx8394f_hd_dsi_vdo_truly.c:976:13:lcm_suspend	96	static
+hx8394f_hd_dsi_vdo_truly.c:282:13:init_lcm_registers	128	static
+hx8394f_hd_dsi_vdo_truly.c:200:20:ktd2151_iic_exit	16	static
+hx8394f_hd_dsi_vdo_truly.c:158:12:ktd2151_remove	32	static
+hx8394f_hd_dsi_vdo_truly.c:187:19:ktd2151_iic_init	16	static
+hx8394f_hd_dsi_vdo_truly.c:727:13:lcm_get_params	32	static
+hx8394f_hd_dsi_vdo_truly.c:721:13:lcm_set_util_funcs	16	static
+hx8394f_hd_dsi_vdo_truly.c:168:5:ktd2151_write_bytes	48	static
+hx8394f_hd_dsi_vdo_truly.c:886:13:lcm_init	128	static
+hx8394f_hd_dsi_vdo_truly.c:996:13:lcm_resume	32	static
